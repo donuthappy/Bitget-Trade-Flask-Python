@@ -1,0 +1,4 @@
+flask --app main.py --debug run
+
+
+CMD SHIFT P
